@@ -24,6 +24,11 @@
   <li>O jogo termina quando todas as 16 questões forem respondidas.</li>
 </ol>
 
+<h2>Restrição</h2>
+<ol>
+  <li>O jogo não esta responsivo para telas de tamanho mobile.</li>
+</ol>
+
 <h2>Autor</h2>
 <a href="https://github.com/gogoncalves"><p>Gustavo Goncalves</p></a>
 
