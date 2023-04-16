@@ -25,9 +25,9 @@
 </ol>
 
 <h2>Restrição</h2>
-<ol>
+<ul>
   <li>O jogo não esta responsivo para telas de tamanho mobile.</li>
-</ol>
+</ul>
 
 <h2>Autor</h2>
 <a href="https://github.com/gogoncalves"><p>Gustavo Goncalves</p></a>
